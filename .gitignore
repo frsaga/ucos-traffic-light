@@ -1,0 +1,7 @@
+Objects/
+Listings/
+*.o
+*.axf
+*.hex
+*.log
+uCOS-II/
